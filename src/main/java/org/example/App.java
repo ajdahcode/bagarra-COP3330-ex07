@@ -2,14 +2,7 @@
  *  UCF COP3330 Fall 2021 Assignment 1 Solution
  *  Copyright 2021 alden bagarra
  */
-/*
-What is the length of the room in feet? 15
-What is the width of the room in feet? 20
-You entered dimensions of 15 feet by 20 feet.
-The area is
-300 square feet
-27.871 square meters
-*/
+
 package org.example;
 import java.util.Scanner;
 
